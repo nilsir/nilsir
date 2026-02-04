@@ -1,30 +1,50 @@
-### Hi there 👋
+# 👋 Hi, there 🚀
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-Here are some quick things about me:
+### 👨‍💻 Full-stack Backend Architect | AI Agent Specialist
 
-- 🔭 I'm a Software Engineer at [@nilsir](https://github.com/nilsir).
-- 🌱 I’m currently learning golang, microservice and 🏊swimming.
-- 🧑‍💻 Coding is my passion.
-- 📫 The best way to reach me is to send me an email.
-- ⚡ Fun fact: I once drove to the [Lugu Lake](https://www.google.com/maps/place/%E6%B3%B8%E6%B2%BD%E6%B9%96/@27.7029267,100.7561587,13z/data=!3m1!4b1!4m5!3m4!1s0x36df8536db0d65b7:0xfe307591753e18e8!8m2!3d27.7244646!4d100.7887231) for sunset.
+> 专注构建高并发分布式系统与 AI 驱动的自动化工作流。
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nilsir&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!--
-**nilsir/nilsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+#### 🐘 PHP Ecosystem
+- **Frameworks:** Laravel (Elegant Monolith), Hyperf (High-performance Coroutine)
+- **Specialties:** Microservices, Event-driven architecture, Swoole/Swow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🐹 Go Ecosystem
+- **Frameworks:** GoFrame (Enterprise-grade), Kratos (Cloud-native Microservices)
+- **Specialties:** Grpc, Concurrency patterns, Distributed Systems
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsir&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
+#### 🤖 AI Agent & LLM
+- **Development:** Claude Code, Spec-Kit, LangChain/Flowise
+- **Focus:** Spec-Driven Development (SDD), Agentic Workflow, Prompt Engineering
+
+#### 🎨 Frontend (Secondary)
+- **Skills:** Vue.js / React (Basic), TailwindCSS
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilsir&show_icons=true&theme=tokyonight&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsir&layout=compact&theme=tokyonight&hide=html,css" height="180" />
+</p>
+
+---
+
+### 🚀 Current Sprints
+- 🛠 **Refactoring:** 将某 PHP 遗留系统迁移至 Kratos 架构
+- 🤖 **Building:** 基于 Claude Code 和 Speckit 构建企业级 AI Agent 规格库
+- ✍️ **Writing:** 编写关于 "从 PHP 到 Go 的架构思维转变" 的博客
+
+---
+
+### 📫 Connect with me
+[Blog](https://blog.alante.cn) | [LinkedIn](https://www.linkedin.com/in/alante-shaw) | [Email](mailto:nilsir@qq.com)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
